@@ -1,47 +1,49 @@
-<h1 align="center">Hi 👋, I'm Pravinsingh Korekar</h1>
-<h3 align="center">A passionate Data Analyst and Django Developer from India</h3>
+# Hi 👋, I'm Pravinsingh Korekar
+## Data Analyst | Django Developer | AI Explorer | Lifelong Learner 🇮🇳
 
-- 🌱 I’m currently learning **Excel**  
-- 📫 How to reach me: **pravinkorekar6@gmail.com**  
+ 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="tel:+918767135153" target="_blank">📞 +91 87671-35153</a>
+<br/>
+
+### 🚀 About Me
+<p align="center">
+  Passionate Data Analyst and Django Developer crafting data-driven solutions and scalable web applications. Currently diving deep into <strong>Data Science with Gen AI</strong> at <a href="https://www.itvedant.com/" target="_blank"><strong>Itvedant</strong></a>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+ 
+
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,aws,git,github,mongodb,mysql,postgres,opencv,pandas,sklearn,seaborn,tensorflow,jupyter,fastapi" />
+</div>
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pravinsinghkorekar&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4" />
+</div>
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="mailto:pravinkorekar6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <a href="tel:+918767135153">
+    <img src="https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/pravinsingh-korekar-7b614b225/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pravinsinghkorekar&color=00C4FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pravinsinghkorekar?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+  <h3>✨ Thank you for visiting! ✨</h3>
+  <sub>Let's create something amazing together 🚀</sub>
+</div>

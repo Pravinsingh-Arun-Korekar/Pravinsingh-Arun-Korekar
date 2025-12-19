@@ -12,15 +12,20 @@
 
  
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Proficiency
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,aws,git,github,mongodb,mysql,postgres,opencv,pandas,sklearn,seaborn,tensorflow,jupyter,fastapi" />
+
+| Category | Technologies | Proficiency Level |
+| :--- | :--- | :--- |
+| **Development** | <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,github" /> | ![80%](https://geps.dev/progress/80?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=pandas,sklearn,seaborn,tensorflow,opencv,jupyter" /> | ![85%](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,excel" /> | ![85%](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws" /> | ![70%](https://geps.dev/progress/70?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
+
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pravinsinghkorekar&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4" />
-</div>
+ 
 
 ### 📫 Let's Connect!
 <p align="center">
@@ -37,10 +42,10 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pravinsinghkorekar&color=00C4FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/pravinsinghkorekar?label=Followers&style=social" alt="GitHub Followers" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />

@@ -1,8 +1,6 @@
 # Hi 👋, I'm Pravinsingh Korekar
 ## Data Analyst | Django Developer | AI Explorer | Lifelong Learner 🇮🇳
 
- 
-
 <br/>
 
 ### 🚀 About Me
@@ -10,22 +8,19 @@
   Passionate Data Analyst and Django Developer crafting data-driven solutions and scalable web applications. Currently diving deep into <strong>Data Science with Gen AI</strong> at <a href="https://www.itvedant.com/" target="_blank"><strong>Itvedant</strong></a>.
 </p>
 
- 
-
-### 🛠️ Technical Proficiency
+### 🛠️ Data Science & Analytics Stack
 
 <div align="center">
 
-| Category | Technologies | Proficiency Level |
-| :--- | :--- | :--- |
-| **Development** | <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,github" /> | ![80%](https://geps.dev/progress/80?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
-| **Data Science** | <img src="https://skillicons.dev/icons?i=pandas,sklearn,seaborn,tensorflow,opencv,jupyter" /> | ![85%](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,excel" /> | ![85%](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws" /> | ![70%](https://geps.dev/progress/70?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) |
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **Data Analysis** | <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> |
+| **ML & AI** | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> |
+| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **Dev & Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> |
 
 </div>
-
- 
 
 ### 📫 Let's Connect!
 <p align="center">
@@ -41,11 +36,6 @@
 </p>
 
 ---
-
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pravinsinghkorekar&color=00C4FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pravinsinghkorekar?label=Followers&style=social" alt="GitHub Followers" />
-</div> -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />

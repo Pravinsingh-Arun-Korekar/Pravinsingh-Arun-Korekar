@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pravinsingh Korekar
-## Data Analyst | Django Developer | AI Explorer | Lifelong Learner 🇮🇳
+## Data Analyst | Fast API Developer | AI Explorer | Lifelong Learner 🇮🇳
 
 <br/>
 
